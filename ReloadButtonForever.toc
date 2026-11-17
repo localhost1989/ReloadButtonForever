@@ -6,6 +6,7 @@
 ## Version: 1.0.2
 ## X-License: GPL-3.0-or-later
 ## X-Curse-Project-ID: 1812130
+## X-Wago-ID: 4N2bymNL
 ## X-Website: https://github.com/localhost1989/ReloadButtonForever
 ## IconTexture: Interface\AddOns\ReloadButtonForever\Media\Icon
 ## SavedVariables: ReloadButtonForeverDB
