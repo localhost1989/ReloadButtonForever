@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Reload Button
+## Notes: One click on the minimap button reloads the interface. Also /rl.
+## Notes-ruRU: Кнопка у миникарты перезагружает интерфейс одним нажатием. Также /rl.
+## Author: localhost1989
+## Version: 1.0.0
+## X-License: GPL-3.0-or-later
+## X-Website: https://github.com/localhost1989/ReloadButtonForever
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## SavedVariables: ReloadButtonForeverDB
+ReloadButton.lua
