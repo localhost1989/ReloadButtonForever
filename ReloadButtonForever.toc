@@ -1,10 +1,11 @@
 ## Interface: 16001
-## Title: Reload Button
+## Title: One Click Reload
 ## Notes: One click on the minimap button reloads the interface. Also /rl.
 ## Notes-ruRU: Кнопка у миникарты перезагружает интерфейс одним нажатием. Также /rl.
 ## Author: localhost1989
-## Version: 1.0.1
+## Version: 1.0.2
 ## X-License: GPL-3.0-or-later
+## X-Curse-Project-ID: 1812130
 ## X-Website: https://github.com/localhost1989/ReloadButtonForever
 ## IconTexture: Interface\AddOns\ReloadButtonForever\Media\Icon
 ## SavedVariables: ReloadButtonForeverDB

@@ -1,4 +1,4 @@
-# Reload Button
+# One Click Reload
 
 *По-русски — ниже.*
 

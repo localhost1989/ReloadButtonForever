@@ -1,4 +1,4 @@
--- Reload Button: a minimap button that reloads the user interface.
+-- One Click Reload: a minimap button that reloads the user interface.
 local ru = GetLocale() == "ruRU"
 local function T(en, russian) return ru and russian or en end
 
