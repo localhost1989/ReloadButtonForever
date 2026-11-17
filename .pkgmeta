@@ -3,3 +3,4 @@ package-as: ReloadButtonForever
 ignore:
   - README.md
   - .github
+  - art

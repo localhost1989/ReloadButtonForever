@@ -2,7 +2,7 @@
 local ru = GetLocale() == "ruRU"
 local function T(en, russian) return ru and russian or en end
 
-local ICON = "Interface\\Icons\\INV_Misc_PocketWatch_01"
+local ICON = "Interface\\AddOns\\ReloadButtonForever\\Media\\Icon"
 
 local function reload()
     ReloadUI()
@@ -25,7 +25,6 @@ local icon = button:CreateTexture(nil, "ARTWORK")
 icon:SetTexture(ICON)
 icon:SetSize(17, 17)
 icon:SetPoint("TOPLEFT", 7, -6)
-icon:SetTexCoord(.07, .93, .07, .93)
 local border = button:CreateTexture(nil, "OVERLAY")
 border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
 border:SetSize(53, 53)
