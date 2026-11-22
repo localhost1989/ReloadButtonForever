@@ -3,7 +3,7 @@
 ## Notes: One click on the minimap button reloads the interface. Also /rl.
 ## Notes-ruRU: Кнопка у миникарты перезагружает интерфейс одним нажатием. Также /rl.
 ## Author: localhost1989
-## Version: 1.0.2
+## Version: 1.0.3
 ## X-License: GPL-3.0-or-later
 ## X-Curse-Project-ID: 1812130
 ## X-Wago-ID: 4N2bymNL
